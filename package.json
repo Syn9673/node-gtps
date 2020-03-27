@@ -1,0 +1,23 @@
+{
+  "name": "node-enet",
+  "version": "0.1.0",
+  "description": "A Growtopia Private Server code in Node.js and ENet",
+  "main": "gtps.js",
+  "dependencies": {
+    "restana": "^4.1.1",
+    "yaml": "^1.8.3"
+  },
+  "scripts": {
+    "start": "node gtps.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexander9673/node-gtps.git"
+  },
+  "author": "Alexander & Kuteshi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alexander9673/node-gtps/issues"
+  },
+  "homepage": "https://github.com/Alexander9673/node-gtps#readme"
+}
