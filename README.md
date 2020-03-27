@@ -3,7 +3,7 @@ A Growtopia Private Server code in Node.js and ENet.
 
 ### Installing
 ##### Requirements:
-- nvm installed (`npm i nvm -g`)
+- nvm installed (`curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash`)
 - Linux Only (Windows Support SoonTM)
 
 #### Installation
