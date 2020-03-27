@@ -7,8 +7,9 @@ port: 17091
 # Options for the webserver
 web:
   # Whether or not to automatically create the webserver for the Server
- # autoStart: true
-  autoStart: false
+   autoStart: true
+  # autoStart: false
+  
   # The port to use
   port: 80
 

@@ -21,7 +21,7 @@ const console = {
 
 // If the value of the "autoStart" property is true, it means that we would automatically start the webserver in the same process.
 if (config.web.autoStart)	
-	require("./Web").exec();
+	require("./web").exec();
 else
 	console.log("Webserver was not automatically started. Make sure you start it.")
 
